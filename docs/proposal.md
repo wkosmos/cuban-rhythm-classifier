@@ -28,16 +28,17 @@ Tirso Duarte
 
 
 ## Rhythmic Cells
+oooo\
 Xooo
 oXoo
 ooXo
-oooX
+oooX\
 XXoo
 oXXo
 ooXX
-XooX
+XooX\
 XXXo
 oXXX
 XoXX
-XXoX
+XXoX\
 XXXX
